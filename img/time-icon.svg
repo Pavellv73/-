@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-1920" transform="translate(-614.000000, -439.000000)" stroke-width="2" stroke="#2796D1">
+            <g id="Преимущества" transform="translate(0.000000, 420.000000)">
+                <g id="02" transform="translate(615.000000, 20.000000)">
+                    <g id="icon-2">
+                        <path d="M59.9603693,15.6300923 L59.9993216,13.7611031 C60.0060959,11.950898 59.9620629,10.0507878 59.8706098,8.1109118 C59.8604483,7.88787794 59.6233477,4.71007759 59.6233477,4.71007759 L59.5352817,3.50500313 L58.3819565,3.2404746 C39.5476981,-1.0801582 20.4543225,-1.0801582 1.62006408,3.2404746 L0.466738838,3.50500313 L0.376979312,4.71007759 C0.376979312,4.71007759 0.141572251,7.88787794 0.131410795,8.11264075 C-0.539245292,21.9701325 1.35247907,32.8088868 5.91327918,41.2444079 C7.63056522,44.4187504 12.5859685,52.3597934 22.5120173,60" id="icon"></path>
+                        <g id="icon" transform="translate(20.000000, 13.000000)">
+                            <ellipse id="Oval" cx="16.4516129" cy="21.7142857" rx="16.4516129" ry="16.2857143"></ellipse>
+                            <polyline id="Path-2" points="15.3548387 11.9428571 15.3548387 22.7988159 24.1290323 22.7988159"></polyline>
+                            <g id="Group" transform="translate(13.161290, 0.000000)">
+                                <path d="M3.29032258,5.42857143 L3.29032258,1.08571429" id="Path-3"></path>
+                                <path d="M0,1.08571429 L6.58064516,1.08571429" id="Path-4"></path>
+                            </g>
+                            <g id="Group-Copy" transform="translate(29.827158, 9.302018) rotate(45.000000) translate(-29.827158, -9.302018) translate(27.327158, 6.302018)">
+                                <path d="M2.19354839,4.34285714 L2.19354839,1.08571429" id="Path-3"></path>
+                                <path d="M8.5975671e-13,1.08571429 L4.38709677,1.08571429" id="Path-4"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="28" cy="28" r="28"></circle>
+        <filter x="-7.1%" y="-3.6%" width="114.3%" height="114.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.10436481 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="solution-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="solution-page-1440" transform="translate(-510.000000, -3462.000000)">
+            <g id="Возможности-систем-видеонаблюдения" transform="translate(375.000000, 3032.000000)">
+                <g id="card-4" transform="translate(0.000000, 383.000000)">
+                    <g id="icon" transform="translate(137.000000, 47.000000)">
+                        <g id="bg">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <circle stroke="#E3E3E3" stroke-width="1" cx="28" cy="28" r="27.5"></circle>
+                        </g>
+                        <g id="Group-4" transform="translate(13.000000, 21.000000)">
+                            <circle id="Oval-4" stroke="#2796D1" stroke-width="2" cx="15" cy="13" r="4"></circle>
+                            <circle id="Oval-4-Copy" fill="#2796D1" cx="15" cy="13" r="1"></circle>
+                            <path d="M3.05839314,6 C3.05839314,6 3,7.99661109 3,8.39864687 C3,15.0260639 8.372583,20.3986469 15,20.3986469 L15,20.3986469 C21.627417,20.3986469 27,15.0260639 27,8.39864687 C27,7.91677187 26.916374,6 26.916374,6" id="Oval-3" stroke="#2796D1" stroke-width="2"></path>
+                            <rect id="Rectangle-2" stroke="#2796D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="0" y="0" width="30" height="6"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

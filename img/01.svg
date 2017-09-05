@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="28" cy="28" r="28"></circle>
+        <filter x="-7.1%" y="-3.6%" width="114.3%" height="114.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.10436481 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="solution-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="solution-page-1440" transform="translate(-510.000000, -3147.000000)">
+            <g id="Возможности-систем-видеонаблюдения" transform="translate(375.000000, 3032.000000)">
+                <g id="card-1" transform="translate(0.000000, 68.000000)">
+                    <g id="icon" transform="translate(137.000000, 47.000000)">
+                        <g id="bg">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <circle stroke="#E3E3E3" stroke-width="1" cx="28" cy="28" r="27.5"></circle>
+                        </g>
+                        <g id="Group" transform="translate(12.000000, 17.000000)" stroke="#2796D1" stroke-width="2">
+                            <circle id="Oval" cx="16" cy="19" r="3"></circle>
+                            <path d="M24.5692596,16.2411165 C23.4043943,12.6201634 20.0081831,10 16,10 C11.9620971,10 8.545275,12.6591634 7.40519737,16.3218267" id="Oval" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M28.05927,11.8841166 C25.6225434,7.76349601 21.1339962,5 16,5 C10.8465245,5 6.34340534,7.78450609 3.91308264,11.931078" id="Oval" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M31.3706803,7.82891805 C27.9162772,3.0840577 22.3182987,0 16,0 C9.69525223,0 4.10773828,3.07084303 0.651575403,7.79841184" id="Oval" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
